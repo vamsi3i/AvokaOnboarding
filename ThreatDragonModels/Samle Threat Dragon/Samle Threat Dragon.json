@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "Samle Threat Dragon",
+    "owner": "Vamsi",
+    "description": "Windows server"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Windows Server",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "Sangala"
+  }
+}
